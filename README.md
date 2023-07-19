@@ -6,3 +6,4 @@
 +😎아이콘 사용
 +Flex사용
 반응형👍 +깃허브 페이지 배포
+[사이트 접속](https://megasw1.github.io/netflix/)
